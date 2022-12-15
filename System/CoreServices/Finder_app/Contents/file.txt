@@ -1,3 +1,0 @@
-<td width=30% valign=top align=middle><a href="../../../../Public/Unity.zip" style="cursor:default;"><img src="Resources/icon_zip.png" width=60% border=0></a><br><br><font face="Lucida Grande, Tahoma" size=2>Unity and Bridge.zip</font></td>
-<td width=30% valign=top align=middle><a href="../../../../Public/Unity-Warp-Test.zip" style="cursor:default;"><img src="Resources/icon_zip.png" width=60% border=0></a><br><br><font face="Lucida Grande, Tahoma" size=2>Warp Drive Test.zip</font></td>
-<td width=30% valign=top align=middle></td>
