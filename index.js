@@ -4,7 +4,7 @@ function createWindow () {
     const mainWindow = new BrowserWindow({
         fullscreen: true
     })
-    mainWindow.loadFile('index.html')
+    mainWindow.loadFile('kernel.html')
 }
 
 app.whenReady().then(() => {
