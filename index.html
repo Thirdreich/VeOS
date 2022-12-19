@@ -1,0 +1,205 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>7.1.38</title>
+	<link href="css/jquery-ui.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/style_calculadora.css">
+	<script src="js/jquery-2.1.1.min.js"></script>
+	<script src="js/jquery-ui.js"></script>
+	<script src="js/index.js"></script>
+</head>
+<body>
+	<div class="wrap">
+		<div class="conetenedor">
+			<div class="start">
+				<div id="usuario"><h1>User</h1></div>
+				<div class="icon-user"></div>
+			</div>
+			<div class="metro-big ie" >
+				<div class="imgw">
+					<img class="icon" src="css/img/ie.png" title="Internet Explorer">
+				</div>
+				<span class="label name">Internet Explorer</span>
+			</div>
+
+	
+
+
+	<div class="metro-big maps">
+		<div class="imgw">
+			<img class="icon"  src="css/img/Maps.png" title="Maps">
+		</div>
+		<span class="label name">Maps</span>
+	</div>
+
+	
+	<div class="metro-small calculator">
+		<div class="imgw" >
+			<img class="icon" id="calculator" src="css/img/Calculator.png" title="Calculadora">
+		</div>
+		<span class="label name">Calculator</span>
+	</div>
+
+	
+	<div class="metro-small store ">
+		<div class="imgw">
+			<img class="icon" src="css/img/Store.png" title="Messenger">
+		</div>
+		<span class="label name">Store</span>
+	</div>
+
+	
+	<div class="metro-big messenger">
+		<div class="imgw">
+			<img class="icon" src="css/img/Messaging.png" title="Messenger">
+		</div>
+		<span class="label name">Messenger</span>
+	</div>
+
+	
+	<div class="metro-big photo">
+		<div class="imgw" >
+			<img class="icon"  src="css/img/Photos.png" title="Internet Explorer">
+		</div>
+		<span class="label name">Photo</span>
+	</div>
+
+	
+	<div class="metro-big windows">
+		<div class="imgw" >
+			<img class="icon"  src="css/img/Windows.png" title="Desktop">
+		</div>
+		<span class="label name">Desktop</span>
+	</div>
+
+	
+	<div class="metro-small xbox">
+		<div class="imgw" >
+			<img class="icon" src="css/img/Xbox.png" title="Xbox">
+		</div>
+		<span class="label name">Xbox</span>
+	</div>
+
+	
+	<div class="metro-small drive">
+		<div class="imgw">
+			<img class="icon" id="drive" src="css/img/Drive.png" title="Internet Explorer">
+		</div>
+		<span class="label name">Drive</span>
+	</div>
+
+
+	<div class="metro-small video ">
+		<div class="imgw">
+			<img class="icon" id="video" src="css/img/Videos.png" title="Internet Explorer">
+		</div>
+		<span class="label name">Video</span>
+	</div>
+
+	<div class="metro-small note">
+		<div class="imgw">
+			<img class="icon" id="nota" src="css/img/Note.png" title="Internet Explorer">
+		</div>
+		<span class="label name">Note</span>
+	</div>
+	</div>
+</div>
+
+<div class="contenedor2">
+	<div class="metro-big Bing ">
+		<div class="imgw">
+			<img class="icon" id="drive" src="css/img/Bing.png" title="Internet Explorer">
+		</div>
+		<span class="label name">Bing</span>
+	</div>
+
+
+	<div class="metro-small Facebook">
+		<div class="imgw">
+			<img class="icon" id="video" src="css/img/Facebook.png" title="Facebook">
+		</div>
+		<span class="label name">Facebook</span>
+	</div>
+
+	<div class="metro-small Mail">
+		<div class="imgw">
+			<img class="icon" id="mail" src="css/img/Mail.png" title="Mail">
+		</div>
+		<span class="label name">Mail</span>
+	</div>
+
+
+
+</div> 
+<div class="DeskCalcu">
+      <form name="calculadora" id="calcu">
+        <table cellpadding="0" cellspacing="0">
+            <tr>
+                <td colspan="4"><input id="resultados" type="text" name="pantallaResultados" disabled /></td>
+            </tr>
+            <tr>
+                <td colspan="4"><input id="pantalla" type="text" name="pantalla" /></td>
+            </tr>
+            <tr>
+                <td colspan="2"><input id="borrar" type="reset" value="Borrar" title="Borrar" /></td>
+                <td colspan="2" id="acerca"><img id="imgback" src="css/img/back_1.png"></td>
+            </tr>
+            <tr>
+                <td><input class="numero" type="button" value="7" title="7" onclick="pantalla.value+='7'" /></td>
+                <td><input class="numero" type="button" value="8" title="8" onclick="pantalla.value+='8'" /></td>
+                <td><input class="numero" type="button" value="9" title="9" onclick="pantalla.value+='9'" /></td>
+                <td><input class="tipo" type="button" value="+" title="Suma" onclick="pantalla.value+='+'" /></td>
+            </tr>
+            <tr>
+                <td><input class="numero" type="button" value="4" title="4" onclick="pantalla.value+='4'" /></td>
+                <td><input class="numero" type="button" value="5" title="5" onclick="pantalla.value+='5'" /></td>
+                <td><input class="numero" type="button" value="6" title="6" onclick="pantalla.value+='6'" /></td>
+                <td><input class="tipo" type="button" value="-" title="Resta" onclick="pantalla.value+='-'" /></td>
+            </tr>
+            <tr>
+                <td><input class="numero" type="button" value="1" title="1" onclick="pantalla.value+='1'" /></td>
+                <td><input class="numero" type="button" value="2" title="2" onclick="pantalla.value+='2'" /></td>
+                <td><input class="numero" type="button" value="3" title="3" onclick="pantalla.value+='3'" /></td>
+                <td><input class="tipo" type="button" value="x" title="Multiplicación" onclick="pantalla.value+='*'" /></td>
+            </tr>
+            <tr>
+                <td><input class="numero" type="button" value="0" title="0" onclick="pantalla.value+='0'" /></td>
+                <td><input class="numero" type="button" value="." title="Punto" onclick="pantalla.value+='.'" /></td>
+                <td><input id="igual" type="button" value="=" title="Igual" onclick="pantallaResultados.value=eval(pantalla.value)" /></td>
+                <td><input class="tipo" type="button" value="÷" title="División" onclick="pantalla.value+='/'" /></td>
+            </tr>
+        </table>
+    </form>		
+</div>
+
+<div class="DeskNote">
+	<div class="barra">
+		<div id="inicio-button" class="app" ></div>
+	</div>
+
+	<div  id="window" class="window">
+		<div class="title-bar">
+			<div><p>information</p></div>
+			<div class="minimize"></div>
+			<div class="maximize"></div>
+			<div class="close"></div>
+		</div>
+		<div class="content">
+			<img id="up" src="css/img/Up.png">
+			<br>
+			<h3>License Gnu 3.0</h3>
+			<h3>Apps used: linux.js electron node.js</h3>
+			<h3>Author Vlaicu Inc</h3>
+			<h3>Version 7.1 BETA M2</h3>
+			<h3>Build 38</h3>
+		</div>
+	</div>
+
+	<textarea id="note" >Add Note :)</textarea>
+</div>
+
+</body>
+</html>
