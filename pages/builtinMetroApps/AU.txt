@@ -1,0 +1,4 @@
+//				<a class="box width2 height2" href="sys/apps/desktop/index.html">
+//					<span>Desktop</span>
+//					<img class="cover" src="sys/images/gallery.jpg" alt="" />
+//				</a>
