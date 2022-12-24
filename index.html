@@ -1,47 +1,23 @@
-﻿<!doctype html>
-<html lang="en">
-<head> 
-	<meta charset="utf-8">
-	<title>7.1.0039</title> 
-	<meta name="description" content="HTML5 Metro Theme" />
-	<meta name="author" content="Vlaicu Inc" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
-	<link rel="stylesheet" type="text/css" media="all" href="sys/css/html5-metro-theme.css" />
-	<script src="sys/js/jquery.min.js"></script>
-	<script src="sys/js/jquery.plugins.min.js"></script>
-	<script src="sys/js/html5-metro-theme.js"></script>
-	<!--[if lt IE 9]>
-		<script src="js/respond.min.js"></script>
-	<![endif]-->
-</head> 
-<body>
-	<div class="html5-metro-layout horizontal">
-		<div class="header">
-			<h1>VlaicuOS 7.1</h1>
-			<div class="controls">
-				<span class="down" title="Scroll down"></span>
-				<span class="up" title="Scroll up"></span>
-				<span class="next" title="Scroll left"></span>
-				<span class="prev" title="Scroll right"></span>
-				<span class="toggle-view" title="Toggle layout"></span>
-			</div>
+<!DOCTYPE html>
+<html>
+	<head>
+		<!-- Developed by krisdb2009 -->
+		<meta charset="UTF-8">
+		<title>Bootloader</title>
+		<meta name="theme-color" content="#000">
+		<meta name="viewport" content="initial-scale=.8, maximum-scale=.8, minimum-scale=.8">
+	</head>
+	<noscript>
+		<body style="background-color:blue;font-family:Courier;color:white;">
+			<style>#bootlog { display:none; }</style>
+			Webdows (c) 2015 - 2017<br><br>A problem has been detected and Webdows has been halted.<br><br>If this is the first time you've seen this error screen, refresh your browser. If this screen appears again, follow these steps:<br>Check to make sure any new software is properly written (HTTP errors, syntax errors, ect). If problems continue, disable or remove any newly installed software.<br><br>Technical information:<br><br>Webdows cannot initiate 'webdows/system32/kernel.js' Javascript is NOT enabled in this browser.
+		</body>
+	</noscript>
+	<body style="background-color:black;">
+		<div id="bootlog">
+			<style>body { overflow:hidden; } #bootlog { z-index:10000;position:absolute; } pre { margin:0;font-size:10px;font-family:Courier;color:white;white-space:pre-wrap; }</style>
+			<pre>Bootloader...GOOD</pre>
 		</div>
-		<div class="content clearfix">
-			<div class="items">
-				<a class="box" href="pages/builtinMetroApps/METRO_settengs/mainpage.html" style="background: #6b6b6b;">
-					<span>Settings</span>
-					<img class="icon" src="sys/images/settings.png" alt="" />
-				</a>
-				<a class="box" href="pages/builtinMetroApps/METRO_music/mainpage.html" style="background: #00aeef;">
-					<span>Music</span>
-					<img class="icon" src="sys/images/music.png" alt="" />
-				</a>
-				<a class="box height2" href="https://github.com/Vovo4k/Vlaicu-OS" style="background: #43b51f;">
-					<span>Source Code</span>
-					<img class="icon big" src="sys/images/source-code.png" alt="" />
-				</a>
-			</div>
-		</div>
-	</div>
-</body>
+	</body>
 </html>
+<script src="webdows/system32/kernel.js"></script>
