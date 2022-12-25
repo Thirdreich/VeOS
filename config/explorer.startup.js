@@ -1,7 +1,7 @@
-$('head').find('title').text('Webdows');
+$('head').find('title').text('VlaicuOS');
 explorer.start.append([], [
 	{
-		title: 'Webdows',
+		title: 'VlaicuOS',
 		icon: 'webdows/resources/icons/ques.ico',
 		callback: function() { system.loader('webdows/webver.js'); }
 	}, {
