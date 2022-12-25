@@ -6,7 +6,7 @@ Date: 03/20/16
 File: webdows/welcome.js
 */
 new explorer.window()
-.title('Welcome to Webdows')
+.title('Welcome user :)')
 .resize(570, 300)
 .center()
 .icon('webdows/resources/icons/logo.png')
@@ -31,25 +31,19 @@ new explorer.window()
 			text: 'GitHub',
 			icon: 'webdows/resources/icons/ghub.png',
 			callback: function() {
-				window.open('https://github.com/belowaverage-org/webdows', '_blank');
-			}
-		}, {
-			text: 'Docs',
-			icon: 'webdows/resources/icons/wpad.ico',
-			callback: function() {
-				window.open('https://github.com/belowaverage-org/webdows/wiki', '_blank');
+				window.open('https://github.com/Vovo4k/Vlaicu-OS', '_blank');
 			}
 		}, {
 			text: 'Help',
 			icon: 'webdows/resources/icons/ques.ico',
 			callback: function() {
-				window.open('https://github.com/belowaverage-org/webdows/issues', '_blank');
+				window.open('https://github.com/Vovo4k/Vlaicu-OS/issues', '_blank');
 			}
 		}
 	];
 	var body = this.body;
 	body.css({'padding-top':'100px','text-align':'center','overflow-x':'hidden'});
-	body.html('<div class="topframe"><div class="welc">Welcome</div><div class="stat">Vlaicu OS TEST<br>'+platform.name+' '+platform.version+'<br>'+platform.layout+'<br>'+platform.os+'<br>'+location.hostname+'</div></div>');
+	body.html('<div class="topframe"><div class="welc">Welcome</div><div class="stat">Vlaicu OS<br>'+platform.name+' '+platform.version+'<br>'+platform.layout+'<br>'+platform.os+'<br>'+location.hostname+'</div></div>');
 	$.each(butts, function() {
 		var buttID = system.guid();
 		body.append('<button buttID="'+buttID+'" class="butt"><span style="background-image:url(\''+this.icon+'\');" class="icon"></span>'+this.text+'</button>');

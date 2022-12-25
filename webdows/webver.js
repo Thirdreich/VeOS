@@ -9,7 +9,7 @@ new explorer.window()
 .resize(450, 400)
 .center()
 .controls([])
-.title('About Webdows')
+.title('About')
 .icon('webdows/resources/icons/info.ico')
 .callback(function() {
 	var win = this;
@@ -23,9 +23,9 @@ new explorer.window()
 			</span>
 		</center>
 		<div>
-			Below Average Webdows | Version <span id="version">...</span><span style="float:right;" id="showing">...</span>
+			VlaicuOS | Version <span id="version">...</span><span style="float:right;" id="showing">...</span>
 			<pre>Loading license, Please wait...</pre>
-			<span style="float:right;">Webdows is NOT affiliated with Microsoft</span>
+			<span style="float:right;">Vlaicu Inc (C) 2021-2022</span>
 		</div>
 		<button class="credits">...</button>
 		<button class="ok">Ok</button>
@@ -59,7 +59,7 @@ new explorer.window()
 		var button = $(this);
 		var list = [
 			{
-				title:'Webdows License',
+				title:'License',
 				location: './license.txt'
 			}, {
 				title:'License Terms',
@@ -67,9 +67,6 @@ new explorer.window()
 			}, {
 				title:'Credits',
 				location: './credits.txt'
-			}, {
-				title:'Other Licenses',
-				location: './otherlicenses.txt'
 			}
 		];
 		if(xhr !== null) {
