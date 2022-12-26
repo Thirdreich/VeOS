@@ -18,8 +18,8 @@ new explorer.window()
 	.html(`
 		<center>
 			<span style="font-size:33px;">
-				<img style="margin-right:5px;vertical-align:-20px;width:64px;height:64px;" src="webdows/resources/explorer/webdows/so3.png">
-				Webdows <span id="lv">...</span>
+				<img style="margin-right:5px;vertical-align:-20px;width:64px;height:64px;" src="webdows/resources/explorer/vlaicu/so3.png">
+				VlaicuOS <span id="lv">...</span>
 			</span>
 		</center>
 		<div>
