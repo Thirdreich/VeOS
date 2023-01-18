@@ -1,0 +1,12 @@
+C:\Users\xenvl\Desktop\vova\vlaicuos\VlaicuOS\VlaicuOS\bin\Debug\net6.0\VlaicuOS.deps.json
+C:\Users\xenvl\Desktop\vova\vlaicuos\VlaicuOS\VlaicuOS\bin\Debug\net6.0\VlaicuOS.dll
+C:\Users\xenvl\Desktop\vova\vlaicuos\VlaicuOS\VlaicuOS\bin\Debug\net6.0\VlaicuOS.pdb
+C:\Users\xenvl\Desktop\vova\vlaicuos\VlaicuOS\VlaicuOS\obj\Debug\net6.0\VlaicuOS.csproj.AssemblyReference.cache
+C:\Users\xenvl\Desktop\vova\vlaicuos\VlaicuOS\VlaicuOS\obj\Debug\net6.0\VlaicuOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xenvl\Desktop\vova\vlaicuos\VlaicuOS\VlaicuOS\obj\Debug\net6.0\VlaicuOS.AssemblyInfoInputs.cache
+C:\Users\xenvl\Desktop\vova\vlaicuos\VlaicuOS\VlaicuOS\obj\Debug\net6.0\VlaicuOS.AssemblyInfo.cs
+C:\Users\xenvl\Desktop\vova\vlaicuos\VlaicuOS\VlaicuOS\obj\Debug\net6.0\VlaicuOS.csproj.CoreCompileInputs.cache
+C:\Users\xenvl\Desktop\vova\vlaicuos\VlaicuOS\VlaicuOS\obj\Debug\net6.0\VlaicuOS.dll
+C:\Users\xenvl\Desktop\vova\vlaicuos\VlaicuOS\VlaicuOS\obj\Debug\net6.0\refint\VlaicuOS.dll
+C:\Users\xenvl\Desktop\vova\vlaicuos\VlaicuOS\VlaicuOS\obj\Debug\net6.0\VlaicuOS.pdb
+C:\Users\xenvl\Desktop\vova\vlaicuos\VlaicuOS\VlaicuOS\obj\Debug\net6.0\ref\VlaicuOS.dll
