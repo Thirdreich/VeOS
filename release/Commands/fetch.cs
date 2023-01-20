@@ -13,7 +13,7 @@ namespace VlaicuOS.Commands
 
         public override String execute(String[] args)
         {
-            return "VlaicuOS BETA 8.0";
+            return "VlaicuOS BETA 8.0 Build 43";
         }
 
     }

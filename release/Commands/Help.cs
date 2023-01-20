@@ -13,7 +13,7 @@ namespace VlaicuOS.Commands
 
         public override String execute (String[] args)
         {
-            return "Welcome to VlaicuOS  it is beta only help command OMG";
+            return "file, gui, time, fetch";
         }
 
     }
