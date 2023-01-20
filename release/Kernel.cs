@@ -1,8 +1,9 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Text;
 using Sys = Cosmos.System;
 using VlaicuOS.Commands;
+using Cosmos.System.FileSystem;
 
 namespace VlaicuOS
 {
@@ -10,12 +11,18 @@ namespace VlaicuOS
     {
 
         private CommandManager commandManager;
+        private CosmosVFS vfs;
 
         protected override void BeforeRun()
         {
-
-            Console.WriteLine("Welcome To Vlaicu OS Build 42");
+            this.vfs=new CosmosVFS();
+            Sys.FileSystem.VFS.VFSManager.RegisterVFS(this.vfs);
+            Console.Clear();
             this.commandManager = new CommandManager();
+
+            Console.WriteLine("Welcome To Vlaicu OS");
+            
+
 
         }
 
