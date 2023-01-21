@@ -98,10 +98,25 @@ namespace VlaicuOS.Commands
 
                         if (fs.CanWrite)
                         {
-                            Byte[] data = Encoding.ASCII.GetBytes(args[2]);
+
+                            int ctr = 0;
+                            StringBuilder sb = new StringBuilder();
+
+                            foreach (String s in args)
+                            {
+                                if (ctr>1)
+                                    sb.Append(s+' ');
+
+                                ++ctr;
+                            }
+
+                            String txt= sb.ToString();
+                            Byte[] data = Encoding.ASCII.GetBytes(txt.Substring(0,txt.Length-1));
 
                             fs.Write(data,0, data.Length);
                             fs.Close();
+
+                            response = "File writed!";
                         }
 
                         else
