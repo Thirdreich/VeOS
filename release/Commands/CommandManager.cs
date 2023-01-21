@@ -13,10 +13,11 @@ namespace VlaicuOS.Commands
 
         public CommandManager() { 
 
-            this.commands=new List<Command>(1);
+            this.commands=new List<Command>(4);
             this.commands.Add(new Help("help"));
             this.commands.Add(new fetch("fetch"));
             this.commands.Add(new File("file"));
+            this.commands.Add(new launchdesktop("gui"));
 
         }
 

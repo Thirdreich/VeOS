@@ -4,6 +4,7 @@ using System.Text;
 using Sys = Cosmos.System;
 using VlaicuOS.Commands;
 using Cosmos.System.FileSystem;
+using VlaicuOS.Graphics;
 
 namespace VlaicuOS
 {
@@ -12,6 +13,7 @@ namespace VlaicuOS
 
         private CommandManager commandManager;
         private CosmosVFS vfs;
+        public static GUI gui;
 
         protected override void BeforeRun()
         {
@@ -28,6 +30,12 @@ namespace VlaicuOS
 
         protected override void Run()
         {
+            if (Kernel.gui!=null)
+            {
+                Kernel.gui.handleGUIInputs();
+                return;
+            }
+
             String response;
             String input = Console.ReadLine();
             response = this.commandManager.proccesInput(input);

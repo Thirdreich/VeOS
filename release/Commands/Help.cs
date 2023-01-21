@@ -13,7 +13,7 @@ namespace VlaicuOS.Commands
 
         public override String execute (String[] args)
         {
-            return "file, gui, time, fetch";
+            return "file (crd - create directory, rrd - remove directory, writestr - write text in file, create - create a file delete - delete a file readstr - read text file), gui, fetch";
         }
 
     }
