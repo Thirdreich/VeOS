@@ -1,45 +1,46 @@
-﻿using System;
+﻿using Cosmos.Core;
+using Cosmos.System.FileSystem;
+using System;
 using System.Collections.Generic;
 using System.Text;
 using Sys = Cosmos.System;
-using VlaicuOS.Commands;
-using Cosmos.System.FileSystem;
-using VlaicuOS.Graphics;
 
 namespace VlaicuOS
 {
     public class Kernel : Sys.Kernel
     {
-
-        private CommandManager commandManager;
-        private CosmosVFS vfs;
-        public static GUI gui;
-
         protected override void BeforeRun()
         {
-            this.vfs=new CosmosVFS();
-            Sys.FileSystem.VFS.VFSManager.RegisterVFS(this.vfs);
             Console.Clear();
-            this.commandManager = new CommandManager();
-
-            Console.WriteLine("Welcome To Vlaicu OS");
-            
-
-
+            Console.WriteLine("Welcome To Vlaicu Console desktop!");
         }
 
         protected override void Run()
         {
-            if (Kernel.gui!=null)
+            Console.Write(">>");
+            var input = Console.ReadLine();
+            if(input == "about")
             {
-                Kernel.gui.handleGUIInputs();
-                return;
+                Console.WriteLine("VlaicuOS Zeta Beta Build 46");
             }
-
-            String response;
-            String input = Console.ReadLine();
-            response = this.commandManager.proccesInput(input);
-            Console.WriteLine(response);
+            if (input == "help")
+            {
+                Console.WriteLine("under construction");
+            }
+            if (input == "cls")
+            {
+                Console.Clear();
+            }
+            if (input == "off")
+            {
+                Console.WriteLine("Stopping Services...");
+                Cosmos.System.Power.Shutdown();
+            }
+            if (input == "reboot")
+            {
+                Console.WriteLine("Stopping Services...");
+                Cosmos.System.Power.Reboot();
+            }
         }
     }
 }
