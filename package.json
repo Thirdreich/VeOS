@@ -1,0 +1,32 @@
+{
+  "name": "vlaicuos",
+  "version": "Zeta",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^13.2.2",
+    "electron-builder": "^22.11.7",
+    "@mainsilent/linux.js": "^1.1.2"
+  },
+  "build": {
+    "files": [
+      "index.js",
+      "index.html",
+      "sys",
+      "style",
+      "styles",
+      "script",
+      "pages",
+      "img",
+      "fonts"
+    ],
+    "linux": {
+      "target": "AppImage"
+    }
+  }
+}
