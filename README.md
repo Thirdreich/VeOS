@@ -22,3 +22,5 @@ Supported VlaicuOS versions:
 | 0.3              | ❌                 | Support ended 6/06/2022              |
 | 0.2              | ❌                 | Support ended 6/06/2022              |
 | 0.1              | ❌                 | Support ended 5/12/2021              |
+
+##Send ideas to discussions
