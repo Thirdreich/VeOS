@@ -4,7 +4,7 @@ function createWindow () {
     const mainWindow = new BrowserWindow({
         fullscreen: true
     })
-    mainWindow.loadFile('sys/BOOTLOADER.html')
+    mainWindow.loadFile('index.html')
 }
 
 app.whenReady().then(() => {
