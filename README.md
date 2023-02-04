@@ -1,7 +1,3 @@
-## Why repo is empty?
-because it is only for testers just wait public beta
-
-
 ## Supported Versions
 
 Supported VlaicuOS versions:
