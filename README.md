@@ -11,7 +11,7 @@ Supported VlaicuOS versions:
 | 7.1 SP0          | ❌                 | Support ended 29/01/2023             |
 | 7.0              | ❌                 | Support ended 29/01/2023             |
 | 6.0              | ❌                 | Support ended 29/01/2023             |
-| Nika             | ✔️                 | 15/11/2027                           |
+| Nika             | ✔️                 | 15/11/2057                           |
 | Minda SP2        | ✔️                 | 15/11/2023                           |
 | Minda            | ✔️                 | 14/11/2023                           |
 | 2.1              | ❌                 | Support ended 31/12/2022             |
