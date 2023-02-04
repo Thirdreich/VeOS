@@ -4,7 +4,7 @@ Supported VlaicuOS versions:
 
 | Version          | Supported          | End Of Support                        |
 | ---------------- | ------------------ | ------------------------------------  |
-| Jupiter          | ✔️                 | Unknown                              |
+| Jupiter          | ✔️                 | 04/02/2023                           |
 | Zeta             | ❌                 | Canceled 1/02/2023                   |
 | VlaicuLite       | ❌                 | Canceled 1/02/2023                   |
 | 7.1 SP1          | ❌                 | Support ended 29/01/2023             |
