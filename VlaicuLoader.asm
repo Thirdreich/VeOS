@@ -10,7 +10,7 @@ start:
 	int 10h
 	mov si,msg
 	call vloader
-	.l
+	.lp
 	mov ax,0
 	int 16h
 	;al - ASCII
@@ -18,6 +18,7 @@ start:
 	jz .q
 	mov ah,0x0e
 	int 10h
+	jmp .lp
 	.q
 	jmp $
 vloader:
