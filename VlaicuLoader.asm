@@ -27,6 +27,17 @@ start:
 	mov al,8
 	int 10h
 	.l
+	cmp al,13
+	jz .j
+	jmp .k
+	.j
+	mov al,8
+	int 10h
+	mov al, 10
+	int 10h
+	mov al,13
+	int 10h
+	.k
 	jmp .lp
 	.q
 	jmp $
