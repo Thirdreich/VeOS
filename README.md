@@ -1,6 +1,6 @@
 ## How To Compile system?
 Just download nasm!
-Supported distro for vlaicu - Ubuntu based distros, Windows XP - 11
+Supported distro for vlaicu - Ubuntu based distros
 
 
 ## Supported Versions
