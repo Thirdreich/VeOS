@@ -8,6 +8,11 @@ start:
 	cld
 	mov ax,3
 	int 10h
+	mov di,0xB80A0
+	mov al,32
+	stosb
+	mov al,244
+	stosb
 	mov si,msg
 	call vloader
 	.lp
