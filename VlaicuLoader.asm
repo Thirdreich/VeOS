@@ -18,6 +18,15 @@ start:
 	jz .q
 	mov ah,0x0e
 	int 10h
+	cmp al,8
+	jz
+	jmp .l
+	.f
+	mov al,0
+	int 10h
+	mov al,8
+	int 10h
+	.l
 	jmp .lp
 	.q
 	jmp $
