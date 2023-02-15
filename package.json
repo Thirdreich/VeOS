@@ -1,0 +1,16 @@
+{
+  "name": "vlaicuos",
+  "version": "9.0.2",
+  "description": "Real iso distro using html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vlaicu INC",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^23.0.0",
+    "electron-builder": "^22.10.3"
+  }
+}
