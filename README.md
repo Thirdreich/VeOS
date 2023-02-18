@@ -16,16 +16,16 @@ Supported VlaicuOS versions:
 | 7.1 SP0          | ❌                 | Main Support ended 29/01/2023        | -                                              |
 | 7.0              | ❌                 | Main Support ended 29/01/2023        | -                                              |
 | 6.0              | ❌                 | Main Support ended 29/01/2023        | -                                              |
-| Nika             | ✔️                 | 15/11/2057                           | 15/11/2062                                     |
-| Minda SP2        | ✔️                 | 15/11/2023                           | 15/11/2028                                     |
-| Minda            | ✔️                 | 14/11/2023                           | 14/11/2028                                     | 
-| 2.1              | ✔️                 | Main Support ended 31/12/2022        | 31/12/2027                                     |
-| 1.0              | ✔️                 | 12/11/2025                           | 12/11/2030                                     |
+| Nika             | ❌                  | 15/11/2057                           | BATCH IS UNSTABLE                             |
+| Minda SP2        | ❌                 | 15/11/2023                           | BATCH IS UNSTABLE                              |
+| Minda            | ❌                 | 14/11/2023                           | BATCH IS UNSTABLE                              | 
+| 2.1              | ❌                 | Main Support ended 31/12/2022        | BATCH IS UNSTABLE                              | 
+| 1.0              | ❌                 | 12/11/2025                           | BATCH IS UNSTABLE                              |  
 | 0.6              | ❌                 | Support ended 6/06/2022              | -                                              |
 | 0.5              | ❌                 | Support ended 6/06/2022              | -                                              |
 | 0.4              | ❌                 | Support ended 6/06/2022              | -                                              |
 | 0.3              | ❌                 | Support ended 6/06/2022              | -                                              | 
 | 0.2              | ❌                 | Support ended 6/06/2022              | -                                              | 
-| 0.1              | ✔️                 | Main Support ended 5/12/2021         | 5/12/2026                                      |
+| 0.1              | ❌                 | Main Support ended 5/12/2021         | BATCH IS UNSTABLE                              |
 
 ## Send ideas to discussions
