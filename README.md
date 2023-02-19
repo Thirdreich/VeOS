@@ -1,4 +1,4 @@
-##Special thanks to QB64
+## Special thanks to QB64
 if no qb64 this os maybe can archived
 you can also download it here: https://qb64.com/
 this is not an advertisement
