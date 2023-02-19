@@ -1,6 +1,7 @@
-## How To Compile system?
-Just download nasm!
-Supported distro for vlaicu - Ubuntu based distros
+##Special thanks to QB64
+if no qb64 this os maybe can archived
+you can also download it here: https://qb64.com/
+this is not an advertisement
 
 
 ## Supported Versions
