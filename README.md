@@ -1,9 +1,3 @@
-## Special thanks to QB64
-if no qb64 this os maybe can archived
-you can also download it here: https://qb64.com/
-this is not an advertisement
-
-
 ## Supported Versions
 
 Supported VlaicuOS versions:
@@ -12,7 +6,7 @@ Supported VlaicuOS versions:
 | ---------------- | ------------------ | ------------------------------------  | ------------------------------------          |
 | Jupiter          | ✔️                 | 04/02/2033                           | 04/02/2038                                     |
 | Zeta             | ❌                 | 1/02/2023                            | 06/02/2023 17:00 GMT +2:00                     |
-| VlaicuLite       | ❌                 | Canceled 1/02/2023                   | -                                              |
+| VlaicuLite       | ✔️                 | ??/??/????                           | ??/??/????                                     |
 | 7.1 SP1          | ❌                 | Main Support ended 29/01/2023        | -                                              |
 | 7.1 SP0          | ❌                 | Main Support ended 29/01/2023        | -                                              |
 | 7.0              | ❌                 | Main Support ended 29/01/2023        | -                                              |
