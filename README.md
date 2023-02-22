@@ -1,6 +1,10 @@
-## Deadly time
-we are searching how to create gui...
-new release 20 March
+### Requirements
+#### Minumum requirements
+- 256 MB of Memory (RAM)
+- x86 or x64 CPU (Not sure about ARM but versions for arm32 and arm64 will be released)
+#### Reccomended requirements
+- 512 MB (or more) of Memory (RAM)
+- x86 or x64 CPU (Not sure about ARM but versions for arm32 and arm64 will be released)
 
 ## Supported Versions
 
