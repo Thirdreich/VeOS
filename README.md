@@ -1,3 +1,6 @@
+## CREDITS FOR KERNEL!!!
+Ncleardev - https://github.com/Ncleardev
+
 ## Supported Versions
 
 Supported VlaicuOS versions:
