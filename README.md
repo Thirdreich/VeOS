@@ -1,5 +1,6 @@
-## CREDITS FOR KERNEL!!!
-Ncleardev - https://github.com/Ncleardev
+## Deadly time
+we are searching how to create gui...
+new release 20 March
 
 ## Supported Versions
 
