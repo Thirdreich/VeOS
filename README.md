@@ -14,4 +14,4 @@ Supported VlaicuOS versions:
 | ---------------- | ------------------ | ------------------------------------  | ------------------------------------          |
 | Jupiter          | ✔️                 | 04/02/2033                           | 04/02/2038                                     |
 
-## Send ideas to discussions
+# Send ideas to discussions
