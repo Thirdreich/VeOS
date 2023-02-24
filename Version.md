@@ -1,2 +1,0 @@
-VlaicuOS
-Build 304
