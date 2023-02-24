@@ -13,5 +13,3 @@ Supported VlaicuOS versions:
 | Version          | Supported          | End Of Support MAIN                   | End Of Support  EXTENDED                      |
 | ---------------- | ------------------ | ------------------------------------  | ------------------------------------          |
 | Jupiter          | ✔️                 | 04/02/2033                           | 04/02/2038                                     |
-
-# Send ideas to discussions
