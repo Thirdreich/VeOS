@@ -1,12 +1,12 @@
 ### Requirements
 #### Minumum requirements
 - Hard Drive 16 GB
-- 4 GB of Memory (RAM)
-- x64 CPU
+- 2 GB of Memory (RAM)
+- x86_64 CPU
 #### Reccomended requirements
 - Hard Drive 32 GB
-- 8 GB of Memory (RAM)
-- x64 CPU 
+- 4 GB of Memory (RAM)
+- x86_64 CPU 
 
 ## Supported Versions
 
