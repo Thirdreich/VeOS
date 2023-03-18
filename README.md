@@ -1,5 +1,3 @@
-### WARNING !!!
-- The project is developing but we update the code after release vlaicuOS Jupiter Beta 2
 
 ### Requirements
 #### Minumum requirements
