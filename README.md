@@ -3,13 +3,15 @@
 
 ### Requirements
 #### Minumum requirements
-- Hard Drive 16 GB
-- 2 GB of Memory (RAM)
-- x86_64 CPU
+- Hard Drive 2 GB
+- 512 MB of Memory (RAM)
+- PC CPU (x86 x32 x64)
 #### Reccomended requirements
-- Hard Drive 32 GB
-- 4 GB of Memory (RAM)
-- x86_64 CPU 
+- Hard Drive 4 GB
+- 1 GB of Memory (RAM)
+- PC CPU (x86 x32 x64)
+- VLAICU CPU (arch : vcpu64, cannot buy because in developing)
+- VPC 1 MotherBoard (in developing)
 
 ## Supported Versions
 
