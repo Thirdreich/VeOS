@@ -1,5 +1,5 @@
 
-OSNAME = CustomOS
+OSNAME = vlaicuOS
 
 GNUEFI = ../gnu-efi
 OVMFDIR = ../OVMFbin
