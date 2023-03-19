@@ -1,3 +1,5 @@
+### WARNING
+here only kernel because I coding :P
 
 ### Requirements
 #### Minumum requirements
