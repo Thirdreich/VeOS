@@ -1,6 +1,3 @@
-### WARNING
-here only kernel because I coding :P
-
 ### Requirements
 #### Minumum requirements
 - Hard Drive 2 GB
