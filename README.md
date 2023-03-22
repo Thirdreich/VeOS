@@ -19,4 +19,5 @@ Supported VlaicuOS versions:
 
 | Version          | Supported          | End Of Support MAIN                   | End Of Support  EXTENDED                      |
 | ---------------- | ------------------ | ------------------------------------  | ------------------------------------          |
+| New Nika         |  ?                 | Unknowm                               | Unknown                                       |
 | Jupiter          | ✔️                 | 04/02/2033                           | 04/02/2038                                     |
