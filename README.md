@@ -10,7 +10,7 @@ here only kernel because I coding :P
 - Hard Drive 4 GB
 - 1 GB of Memory (RAM)
 - PC CPU (x86 x32 x64)
-- VLAICU CPU (arch : vcpu64, cannot buy because in developing)
+- VLAICU CPU (cannot buy because in developing)
 - VPC 1 MotherBoard (in developing)
 
 ## Supported Versions
