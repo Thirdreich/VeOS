@@ -9,7 +9,7 @@
 #### Reccomended requirements
 - Hard Drive 4 GB
 - 1 GB of Memory (RAM)
-- PC CPU (x86 x32 x64)
+- PC CPU (x86_64)
 - VPC 1 MotherBoard (in developing)
 
 ## Supported Versions
