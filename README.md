@@ -1,3 +1,6 @@
+### NEW BETA !!!
+#### In 1 August
+
 ### Requirements
 #### Minumum requirements
 - Hard Drive 2 GB
