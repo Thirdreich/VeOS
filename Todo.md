@@ -7,4 +7,4 @@
 
 ### New Version of vlaicuOS
 
-### Add langluages : Russian, Moldovan (Cyrilic Moldova), Romanian [NEVER], Kazakh, Belarussian, Estonian, Lithuanian, Ukranian
+### Add langluages : Russian, Moldovan (Cyrilic Moldova), Moldovian (Latin), Kazakh, Belarussian, Estonian, Lithuanian, Ukranian
