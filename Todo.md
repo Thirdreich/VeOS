@@ -8,5 +8,3 @@
 ### New Version of vlaicuOS
 
 ### Add langluages : Russian, Moldovan (Cyrilic Moldova), Moldovian (Latin), Kazakh, Belarussian, Estonian, Lithuanian, Ukranian
-
-### Switch to the lua langluage
