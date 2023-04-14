@@ -14,7 +14,7 @@
 
 ## Supported Versions
 
-Supported VlaicuOS versions:
+Supported VeOS versions:
 
 | Version          | Supported          | End Of Support MAIN                   | End Of Support  EXTENDED                      |
 | ---------------- | ------------------ | ------------------------------------  | ------------------------------------          |
