@@ -1,5 +1,5 @@
-### NEW BETA !!!
-#### In 1 August
+### NEW PRIVATE ALPHA (or you can compile from source after release) !!!
+### soon...
 
 ### Requirements
 #### Minumum requirements
